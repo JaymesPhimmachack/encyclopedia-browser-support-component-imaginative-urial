@@ -127,11 +127,11 @@ button {
 /*----- Section Containers (Component 2) -----*/
 
 section h1, section h2, section h3, section h4, section h5,section div, section, section header, section p {
-	margin: 0;
+  margin: 0;
 }
 
 section ul li {
-	margin-left: 0px;
+  margin-left: 0px;
 }
 
 section {
